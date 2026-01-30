@@ -62,9 +62,10 @@ This repository contains the **Frontend client**, built with **React, TailwindCS
 
 ## 📸 Screenshots
 
-| **Home / Dark Mode** | **Health Tips / Light Mode** |
+| **Home** | **Health Tips / Light Mode** |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/600x300/1f2937/ffffff?text=Dark+Mode+UI" alt="Dark Mode" width="100%"> | <img src="https://via.placeholder.com/600x300/ffffff/000000?text=Health+Tips+Page" alt="Health Tips" width="100%"> |
+| <img src="https://github.com/utsho0002/Blood-Hero-client_Side/blob/main/Screenshot%202026-01-28%20233721.png?raw=true" alt="Home Page" width="100%"> | 
+<img src="" alt="Health Tips" width="100%"> |
 
 
 
