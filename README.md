@@ -36,7 +36,7 @@ This repository contains the **Frontend client**, built with **React, TailwindCS
 
 <div align="center">
   <h3>
-    <a href="YOUR_DEPLOYED_LINK_HERE" target="_blank">👉 Launch BloodHero Application</a>
+    <a href="https://assignment-11-pre.web.app/" target="_blank">👉 Launch BloodHero Application</a>
   </h3>
 </div>
 
