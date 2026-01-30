@@ -66,11 +66,9 @@ This repository contains the **Frontend client**, built with **React, TailwindCS
 |:---:|:---:|
 | <img src="https://via.placeholder.com/600x300/1f2937/ffffff?text=Dark+Mode+UI" alt="Dark Mode" width="100%"> | <img src="https://via.placeholder.com/600x300/ffffff/000000?text=Health+Tips+Page" alt="Health Tips" width="100%"> |
 
-| **Mobile Navigation** | **Legal Pages (Sticky Nav)** |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/600x300/ef4444/ffffff?text=Mobile+Menu" alt="Mobile View" width="100%"> | <img src="https://via.placeholder.com/600x300/e5e7eb/000000?text=Terms+Of+Service" alt="Terms" width="100%"> |
 
-> Replace these placeholders with actual screenshots from your app for best results.
+
+
 
 ---
 
